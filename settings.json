@@ -1,14 +1,14 @@
 {
-    "workbench.colorTheme": "Carbon",
+    "workbench.colorTheme": "Catppuccin Macchiato",
     "workbench.iconTheme": "ayu",
     "terminal.integrated.defaultProfile.windows": "Git Bash",
 
     // Editor
     "editor.fontSize": 16,
-    "editor.lineHeight": 2.6,
+    "editor.lineHeight": 2.4,
+    "editor.letterSpacing": 0.0,
     // "editor.fontFamily": "Hack Nerd Font",
     "editor.fontFamily": "JetBrains Mono",
     "editor.guides.indentation": false,
     "editor.lineNumbers": "off",
-    "workbench.statusBar.visible": false
 }
